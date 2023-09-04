@@ -1,15 +1,15 @@
 
-# Informacion Fiananciera
+# Información Fiananciera
 
-Ejemplo de dataset para informacion financiera
+Ejemplo de dataset para información financiera
 
 
 ## DatosFinancieros.xlsx
 
-#### Informacion de los campos
+#### Información de los campos
 
 
-| Campo | Tipo     | Descripcion                |
+| Campo | Tipo     | Descripción                |
 | :-------- | :------- | :------------------------- |
 | `Segmento` | `Texto` |  |
 | `Pais` | `Texto` |  |
